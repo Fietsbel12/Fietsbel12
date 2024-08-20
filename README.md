@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fietsbel12 But you can call me Lotus 
-- 👀 I’m interested in PHP
+- 👀 I’m interested in PHP and COBOL
 - 🌱 I’m currently learning C#, PHP and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
