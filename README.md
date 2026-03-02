@@ -1,6 +1,6 @@
 Hi, I'm Lotus ฅ^>⩊<^ ฅ
 
-💻 Tweedejaars software developer student 
+💻 derdejaars software developer student 
 
 
 ## 🌐 Socials:
