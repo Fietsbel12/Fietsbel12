@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lotus ฅ^>⩊<^ ฅ<br><br>🖳 Derdejaars software developer student!!<br><br>Op dit moment ben ik bezig met C# + WinUI en Kotlin <br>daarnaast ben ik zelf bezig met projecten in PHP, Javascript, html en css •ᴗ•<br><br>Naast het programmeren ben ik ook een grafisch vormgever. 
+Hi, I'm Lotus ฅ^>⩊<^ ฅ<br><br>🖳 Derdejaars software developer student!!<br><br>Momenteel werk ik voornamelijk met C# (WinUI) en ontwikkel ik Android-applicaties in Kotlin. Daarnaast werk ik aan projecten in PHP, JavaScript, HTML en CSS •ᴗ•<br><br>Naast het programmeren ben ik ook een grafisch vormgever. 
 
 
 ## 🌐 Socials:
